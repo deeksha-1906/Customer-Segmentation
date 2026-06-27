@@ -1,0 +1,9 @@
+numpy ==1.26.4
+pandas == 2.3.3
+scikit-learn
+seaborn
+altair == 4.2.2
+kneed
+
+
+
